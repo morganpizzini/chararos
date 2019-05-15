@@ -45,7 +45,6 @@
   },
   "repository": "morganpizzini/chararos",
   "scripts": {
-    "postinstall": "npm link",
     "posttest": "tslint -p test -t stylish",
     "prepack": "rimraf lib && tsc -b",
     "test": "nyc --extension .ts mocha --forbid-only \"test/**/*.test.ts\""
