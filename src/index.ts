@@ -1,7 +1,7 @@
-import {Command, flags} from '@oclif/command'
+import { Command, flags } from '@oclif/command';
+import { fileWalker } from './helpers/file-walker';
+import { removeFromDisk } from './helpers/remove-from-disk';
 
-import {fileWalker} from './helpers/file-walker'
-import {removeFromDisk} from './helpers/remove-from-disk'
 
 class Chararos extends Command {
   static description = 'describe the command here'
@@ -75,7 +75,12 @@ class Chararos extends Command {
       if (flags.dryrun) {
         this.log('!dry-run! remove')
         if (data) {
+          if (data.length === 0) {
+            this.log('nothing to remove')
+          }
           data.forEach(x => this.log(x))
+        } else {
+          this.log('nothing to remove')
         }
         return
       }

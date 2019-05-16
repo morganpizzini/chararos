@@ -38,9 +38,6 @@ function fileWalker(
             return
           }
           fileWalker(file, foldersName, (err, res) => {
-            // console.log(file)
-            // console.log(foldersName)
-            // console.log(res)
             if (res) {
               results = results.concat(res)
             }
