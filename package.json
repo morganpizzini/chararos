@@ -1,7 +1,7 @@
 {
   "name": "chararos",
   "description": "destroy all folders that fill space",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Morgan Pizzini @morganpizzini",
   "bin": {
     "chararos": "./bin/run"
