@@ -1,5 +1,5 @@
 // import fs = require('fs');
-import {readdir, stat} from 'fs'
+import { readdir, stat } from 'fs';
 
 const path = require('path')
 
@@ -54,4 +54,5 @@ function fileWalker(
 }
 
 // module.exports.fileWalker = fileWalker;
-export {fileWalker}
+export { fileWalker };
+

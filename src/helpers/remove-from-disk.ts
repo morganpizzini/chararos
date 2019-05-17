@@ -1,6 +1,8 @@
 // let rimraf = require('rimraf')
 // const { cli } = require('cli-ux')
-import * as rimraf from 'rimraf'
+// import * as rimraf from 'rimraf'
+const rimraf = require('rimraf')
+
 function removeFromDisk(files: string[] | undefined) {
   if (!files) {
     // tslint:disable-next-line: no-console
