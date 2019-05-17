@@ -206,8 +206,24 @@
         "signature": "778d7164f3612aad776e12987f46889f3fe3541e5d9aed5f673daed728b643d5"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/file-walker.ts": {
-        "version": "7d4f09bb7fb61d87a402238d3c581731d2d583d89b87a302642434f473540140",
+        "version": "9be53729f84f4452495ca293ad9df32db5e6faa4b89450614afd98d1833ee703",
         "signature": "e7201a61457c76719986877ed46131a48e2b36f99c31845f14f81e7fe0f922ee"
+      },
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/remove-from-disk.ts": {
+        "version": "a9101e86f56bb5ffd8ec492f5d31b29d6995f3a2c7cde8d4a35d2cb2a9fc449f",
+        "signature": "b05780875d18ebf5166bfeb651a04cb988b035a00a4ed81218ee5323b7ccffb2"
+      },
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/index.ts": {
+        "version": "c56673bcee705df6558281680c7c89c7fbb17ca303baa052f429548909ec5480",
+        "signature": "a2713dd52e7e48f0be4826cc25b2e86a26662752c111f17671bde0c76e79ed59"
+      },
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/chai/index.d.ts": {
+        "version": "c465afa89ac28f74167a2ee7c3c6eb8dd1245c2b3bdaa4704d58d35b932de4b7",
+        "signature": "c465afa89ac28f74167a2ee7c3c6eb8dd1245c2b3bdaa4704d58d35b932de4b7"
+      },
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/events/index.d.ts": {
+        "version": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935",
+        "signature": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/globals.d.ts": {
         "version": "1bba2fc2e58c0340b92eeb9185be6e75e27d52f10a315aa65810a19b3277f1c7",
@@ -224,10 +240,6 @@
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/buffer.d.ts": {
         "version": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d",
         "signature": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d"
-      },
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/events/index.d.ts": {
-        "version": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935",
-        "signature": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/child_process.d.ts": {
         "version": "f1086bf9854d882321f28c3691987832c97e5bb360f9bbc5e0e5a150fa055f56",
@@ -397,22 +409,6 @@
         "version": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee",
         "signature": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee"
       },
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/rimraf/index.d.ts": {
-        "version": "020902fda20b7d8937c30699f217e198054a0d0d5c1c309dab7d588adadfcade",
-        "signature": "020902fda20b7d8937c30699f217e198054a0d0d5c1c309dab7d588adadfcade"
-      },
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/remove-from-disk.ts": {
-        "version": "4cb3fcd1cca121c3c96c0f4fa6949098bb13d3aa7458825bbf4a0ec0c91df4aa",
-        "signature": "b05780875d18ebf5166bfeb651a04cb988b035a00a4ed81218ee5323b7ccffb2"
-      },
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/index.ts": {
-        "version": "c56673bcee705df6558281680c7c89c7fbb17ca303baa052f429548909ec5480",
-        "signature": "a2713dd52e7e48f0be4826cc25b2e86a26662752c111f17671bde0c76e79ed59"
-      },
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/chai/index.d.ts": {
-        "version": "c465afa89ac28f74167a2ee7c3c6eb8dd1245c2b3bdaa4704d58d35b932de4b7",
-        "signature": "c465afa89ac28f74167a2ee7c3c6eb8dd1245c2b3bdaa4704d58d35b932de4b7"
-      },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts": {
         "version": "1ab36cdbb5af99fc06711bbd51d7bf09d5fedaba0223f15f45708d9882ffb853",
         "signature": "1ab36cdbb5af99fc06711bbd51d7bf09d5fedaba0223f15f45708d9882ffb853"
@@ -472,6 +468,10 @@
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/nock/index.d.ts": {
         "version": "53f4a595b3b84fbd7ce6a47370c9ca7533c12ee4e3e4c754eb904d14d32eaabe",
         "signature": "53f4a595b3b84fbd7ce6a47370c9ca7533c12ee4e3e4c754eb904d14d32eaabe"
+      },
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/rimraf/index.d.ts": {
+        "version": "020902fda20b7d8937c30699f217e198054a0d0d5c1c309dab7d588adadfcade",
+        "signature": "020902fda20b7d8937c30699f217e198054a0d0d5c1c309dab7d588adadfcade"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/sinon/ts3.1/index.d.ts": {
         "version": "3fdf5e086de03fc17dd943691526d07bc4d951ec223e4685cac5f21d6533de3e",
@@ -739,6 +739,25 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/remove-from-disk.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/index.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/command/lib/index.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/file-walker.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/remove-from-disk.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/chai/index.d.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/events/index.d.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/globals.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
@@ -752,10 +771,6 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/buffer.d.ts": [
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/events/index.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1018,29 +1033,6 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/rimraf/index.d.ts": [
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/glob/index.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/fs.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/remove-from-disk.ts": [
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/rimraf/index.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/index.ts": [
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/command/lib/index.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/file-walker.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/remove-from-disk.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/chai/index.d.ts": [
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
@@ -1257,6 +1249,13 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/fs.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/http.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/url.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/rimraf/index.d.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/glob/index.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/fs.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/index.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
@@ -1511,6 +1510,18 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/index.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/chai/index.d.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/events/index.d.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/globals.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
@@ -1524,10 +1535,6 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/buffer.d.ts": [
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/events/index.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1790,21 +1797,6 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/rimraf/index.d.ts": [
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/glob/index.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/fs.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/index.ts": [
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/chai/index.d.ts": [
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
@@ -2025,6 +2017,13 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/rimraf/index.d.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/glob/index.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/fs.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/sinon/ts3.1/index.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
@@ -2082,12 +2081,13 @@
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/command/lib/command.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/command/lib/main.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/command/lib/index.d.ts",
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/file-walker.ts",
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/index.ts",
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/chai/index.d.ts",
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/events/index.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/globals.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/assert.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/async_hooks.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/buffer.d.ts",
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/events/index.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/child_process.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/cluster.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/console.d.ts",
@@ -2130,10 +2130,6 @@
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/index.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/minimatch/index.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/glob/index.d.ts",
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/rimraf/index.d.ts",
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/remove-from-disk.ts",
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/index.ts",
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/chai/index.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
@@ -2149,7 +2145,10 @@
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/mocha/index.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/nock/index.d.ts",
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/sinon/ts3.1/index.d.ts"
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/rimraf/index.d.ts",
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/sinon/ts3.1/index.d.ts",
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/file-walker.ts",
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/remove-from-disk.ts"
     ]
   },
   "version": "3.4.5"
