@@ -226,28 +226,28 @@
         "signature": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/globals.d.ts": {
-        "version": "1bba2fc2e58c0340b92eeb9185be6e75e27d52f10a315aa65810a19b3277f1c7",
-        "signature": "1bba2fc2e58c0340b92eeb9185be6e75e27d52f10a315aa65810a19b3277f1c7"
+        "version": "3af134c0480536f901a30692d216bd29712a3869fe38a7be066ea1eef34a8561",
+        "signature": "3af134c0480536f901a30692d216bd29712a3869fe38a7be066ea1eef34a8561"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/assert.d.ts": {
-        "version": "e37e4814461321ef67cbb2f4c9def6be18ff85670e6c665131b320e052905b75",
-        "signature": "e37e4814461321ef67cbb2f4c9def6be18ff85670e6c665131b320e052905b75"
+        "version": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f",
+        "signature": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/async_hooks.d.ts": {
-        "version": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a",
-        "signature": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a"
+        "version": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561",
+        "signature": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/buffer.d.ts": {
         "version": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d",
         "signature": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/child_process.d.ts": {
-        "version": "f1086bf9854d882321f28c3691987832c97e5bb360f9bbc5e0e5a150fa055f56",
-        "signature": "f1086bf9854d882321f28c3691987832c97e5bb360f9bbc5e0e5a150fa055f56"
+        "version": "c5a3c14cb11afb48d405562e6843145caa67c60be9738f408cd7977ce30a0b00",
+        "signature": "c5a3c14cb11afb48d405562e6843145caa67c60be9738f408cd7977ce30a0b00"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/cluster.d.ts": {
-        "version": "d2704553f735d9b9cf31a26cbf4dd085e89b0ec3eec33d684b2517555370b665",
-        "signature": "d2704553f735d9b9cf31a26cbf4dd085e89b0ec3eec33d684b2517555370b665"
+        "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/console.d.ts": {
         "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
@@ -258,88 +258,88 @@
         "signature": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/crypto.d.ts": {
-        "version": "6b956acd0fa4df8f2723012d18498954438874cc63a0bd639dc470135a782101",
-        "signature": "6b956acd0fa4df8f2723012d18498954438874cc63a0bd639dc470135a782101"
+        "version": "325154b5b9b94af94b9c0cea4a051496693e6253be1abb2b6399b68331d70e46",
+        "signature": "325154b5b9b94af94b9c0cea4a051496693e6253be1abb2b6399b68331d70e46"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/dgram.d.ts": {
-        "version": "3d1cb0eaae19fa89fe381bba6d5a149d1bf34efc0134220879f57e2061732a6d",
-        "signature": "3d1cb0eaae19fa89fe381bba6d5a149d1bf34efc0134220879f57e2061732a6d"
+        "version": "b6c6861bccf209a98eeddb99bdb7bd987fb29fc52130d5d9fd2f79d3607a0a7a",
+        "signature": "b6c6861bccf209a98eeddb99bdb7bd987fb29fc52130d5d9fd2f79d3607a0a7a"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/dns.d.ts": {
         "version": "896cd7d58e9d832392a6e374a8f8b64f142089b4d2678a2c90fd8d1d49128677",
         "signature": "896cd7d58e9d832392a6e374a8f8b64f142089b4d2678a2c90fd8d1d49128677"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/domain.d.ts": {
-        "version": "ae3487bdb9b50c1d8bbeb6b55c8b2b9aa79bbc46d7afbc3483169ad8750c4304",
-        "signature": "ae3487bdb9b50c1d8bbeb6b55c8b2b9aa79bbc46d7afbc3483169ad8750c4304"
+        "version": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
+        "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/events.d.ts": {
-        "version": "4a419878f025046ff6748d073123b0451849f83b7dbca907037a53e3eaa9bbbb",
-        "signature": "4a419878f025046ff6748d073123b0451849f83b7dbca907037a53e3eaa9bbbb"
+        "version": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c",
+        "signature": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/fs.d.ts": {
-        "version": "d299cefc49b5324553282f0913be665fc4522f367ab3d1fecbc6d39e987c4c7b",
-        "signature": "d299cefc49b5324553282f0913be665fc4522f367ab3d1fecbc6d39e987c4c7b"
+        "version": "443b649496d14353d14e79b502a210f33c2d868f4c07df84c0e08cb013c08211",
+        "signature": "443b649496d14353d14e79b502a210f33c2d868f4c07df84c0e08cb013c08211"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/http.d.ts": {
-        "version": "896c59370c35abd48415751b78ce927eda463a20f1a3921bf3dc4962504ec06e",
-        "signature": "896c59370c35abd48415751b78ce927eda463a20f1a3921bf3dc4962504ec06e"
+        "version": "cc4cd9d8af7f5689b5df3c91d0fc287fafbd89e6e305183da28a6877a8aa08a8",
+        "signature": "cc4cd9d8af7f5689b5df3c91d0fc287fafbd89e6e305183da28a6877a8aa08a8"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/http2.d.ts": {
-        "version": "e36a3ca6d86f19ff207dabc61d27088c464f2dc3ffb64b0daf17dc33b85191e6",
-        "signature": "e36a3ca6d86f19ff207dabc61d27088c464f2dc3ffb64b0daf17dc33b85191e6"
+        "version": "28fdca6c7a3d5dd62c738461051ef345b50d167efab39dceb2fcc9a079db1b07",
+        "signature": "28fdca6c7a3d5dd62c738461051ef345b50d167efab39dceb2fcc9a079db1b07"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/https.d.ts": {
-        "version": "152af7c23ec219f632afa2d861abc65993f56cd39a4f3a4018515dbc05950a74",
-        "signature": "152af7c23ec219f632afa2d861abc65993f56cd39a4f3a4018515dbc05950a74"
+        "version": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
+        "signature": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/inspector.d.ts": {
-        "version": "0d668f73487c0d16fd6c1051c61b76d3b590cd986fadea91da08dff459dbec45",
-        "signature": "0d668f73487c0d16fd6c1051c61b76d3b590cd986fadea91da08dff459dbec45"
+        "version": "7f71142177d3c98370b31751e3d320c9743ed28eee215acb88d8e0d2a31e321e",
+        "signature": "7f71142177d3c98370b31751e3d320c9743ed28eee215acb88d8e0d2a31e321e"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/module.d.ts": {
         "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
         "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/net.d.ts": {
-        "version": "56a15cc211894d79aa44cbb46c276bfd3f10458a61bff2dec99114db8a7e71e3",
-        "signature": "56a15cc211894d79aa44cbb46c276bfd3f10458a61bff2dec99114db8a7e71e3"
+        "version": "cc5fac2b9e45a6670b96fd32cb42c97e0d4a7b2ee12c87963c6fe0f55fa84f50",
+        "signature": "cc5fac2b9e45a6670b96fd32cb42c97e0d4a7b2ee12c87963c6fe0f55fa84f50"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/os.d.ts": {
-        "version": "0ab49f803fa1d0f26682096e87ae239be05fee89ac538d30c59ab5a15bd38e6a",
-        "signature": "0ab49f803fa1d0f26682096e87ae239be05fee89ac538d30c59ab5a15bd38e6a"
+        "version": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486",
+        "signature": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/path.d.ts": {
-        "version": "61c84c3b0eb6e60196d15ae5e21793a1d4241c547f0bdd0529ffae838d1a073c",
-        "signature": "61c84c3b0eb6e60196d15ae5e21793a1d4241c547f0bdd0529ffae838d1a073c"
+        "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/perf_hooks.d.ts": {
-        "version": "981192e57b0e159c977f1d8e8b8576e9d6b4e013b902e9c0d4b178cb47e2dc86",
-        "signature": "981192e57b0e159c977f1d8e8b8576e9d6b4e013b902e9c0d4b178cb47e2dc86"
+        "version": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
+        "signature": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/process.d.ts": {
         "version": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389",
         "signature": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/punycode.d.ts": {
-        "version": "eeb0d1ad28e70773ac57ae9fe939c3bad6af2525a463c28f9ec31b5953de6735",
-        "signature": "eeb0d1ad28e70773ac57ae9fe939c3bad6af2525a463c28f9ec31b5953de6735"
+        "version": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
+        "signature": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/querystring.d.ts": {
-        "version": "8969e0b4d22ca77ad011c8fc4a25ec5d515bdfae4ecbd22608ed0d5c38829c1e",
-        "signature": "8969e0b4d22ca77ad011c8fc4a25ec5d515bdfae4ecbd22608ed0d5c38829c1e"
+        "version": "b610b39b7d42b8e8359875ce77c3149d657bbaa6c9058beb655af805efb581b3",
+        "signature": "b610b39b7d42b8e8359875ce77c3149d657bbaa6c9058beb655af805efb581b3"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/readline.d.ts": {
-        "version": "544728a999d35afc7b9e6d7420fb10046c16fcc5cb54fef21d2f5de78bf98830",
-        "signature": "544728a999d35afc7b9e6d7420fb10046c16fcc5cb54fef21d2f5de78bf98830"
+        "version": "94cf93922adcc9cb4acf11d8d71641af728de919a50ae55d8e83159afea1a42c",
+        "signature": "94cf93922adcc9cb4acf11d8d71641af728de919a50ae55d8e83159afea1a42c"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/repl.d.ts": {
-        "version": "d0b0b533dc34ff7ffd019665fdc2b2aeae717bc1347e17a5bdc4d6572b5c109a",
-        "signature": "d0b0b533dc34ff7ffd019665fdc2b2aeae717bc1347e17a5bdc4d6572b5c109a"
+        "version": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157",
+        "signature": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts": {
-        "version": "c07900741b39a32e2167f08aadcdea84b077727f828f27ceebf534715ea66d97",
-        "signature": "c07900741b39a32e2167f08aadcdea84b077727f828f27ceebf534715ea66d97"
+        "version": "15087156b728a1bdf46de0e1299f904c6a658af37f80851f6fe76fb21bb99b65",
+        "signature": "15087156b728a1bdf46de0e1299f904c6a658af37f80851f6fe76fb21bb99b65"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/string_decoder.d.ts": {
         "version": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948",
@@ -350,40 +350,40 @@
         "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/tls.d.ts": {
-        "version": "68f639766f4b9d5c832bbca1203955969a8686137a4a197285dd64519cc26e58",
-        "signature": "68f639766f4b9d5c832bbca1203955969a8686137a4a197285dd64519cc26e58"
+        "version": "8fd6756e8a6fac64089e19e4fbe822bcfafa62f79b237172288eaa1379e84083",
+        "signature": "8fd6756e8a6fac64089e19e4fbe822bcfafa62f79b237172288eaa1379e84083"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/trace_events.d.ts": {
         "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
         "signature": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/tty.d.ts": {
-        "version": "3a59044813b24482ad7a7963bbee6b62507561969e273fbdc992ed9bc948fe13",
-        "signature": "3a59044813b24482ad7a7963bbee6b62507561969e273fbdc992ed9bc948fe13"
+        "version": "0fd8dac24f12d9fd1fcc275200dd1b6771072f20331a07b18f7dbcbe20f7d3f4",
+        "signature": "0fd8dac24f12d9fd1fcc275200dd1b6771072f20331a07b18f7dbcbe20f7d3f4"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/url.d.ts": {
-        "version": "431151f55411c3f27cf539b987a7d1de453188ed58e54bc946183d280d3444a2",
-        "signature": "431151f55411c3f27cf539b987a7d1de453188ed58e54bc946183d280d3444a2"
+        "version": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7",
+        "signature": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts": {
-        "version": "766b7f1a0e67ed1106ae02583408d9e3a820201c4539f9bed8be8e4f07ee6e92",
-        "signature": "766b7f1a0e67ed1106ae02583408d9e3a820201c4539f9bed8be8e4f07ee6e92"
+        "version": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12",
+        "signature": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/v8.d.ts": {
-        "version": "e880a08fbb0d9ee2f733f9183f4d1bdb75bc9e0e64060a8a1fc30540791fcded",
-        "signature": "e880a08fbb0d9ee2f733f9183f4d1bdb75bc9e0e64060a8a1fc30540791fcded"
+        "version": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033",
+        "signature": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/vm.d.ts": {
         "version": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9",
         "signature": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/worker_threads.d.ts": {
-        "version": "e761c833140e3ab6f9deab37fe034154f3eb15547dce61395d9b0b1f130f3fa3",
-        "signature": "e761c833140e3ab6f9deab37fe034154f3eb15547dce61395d9b0b1f130f3fa3"
+        "version": "16de20ae20cd1d948409a56b55832f3d416c66c8cb44bb8475e1e9db14d8e402",
+        "signature": "16de20ae20cd1d948409a56b55832f3d416c66c8cb44bb8475e1e9db14d8e402"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/zlib.d.ts": {
-        "version": "58257a0147702ab415ed18164557a0feb9c5d1351792ea293a876e6b7ed0c559",
-        "signature": "58257a0147702ab415ed18164557a0feb9c5d1351792ea293a876e6b7ed0c559"
+        "version": "f91189e04264b0e41ee96ff96661c3871e739b90156df2f2288da7a81019dcd9",
+        "signature": "f91189e04264b0e41ee96ff96661c3871e739b90156df2f2288da7a81019dcd9"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/base.d.ts": {
         "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
@@ -394,8 +394,8 @@
         "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/globals.d.ts": {
-        "version": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45",
-        "signature": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45"
+        "version": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
+        "signature": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1"
       },
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/index.d.ts": {
         "version": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c",
@@ -776,8 +776,8 @@
       ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/child_process.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/net.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -830,9 +830,9 @@
       ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/http.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/net.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/url.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/net.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -947,6 +947,7 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/v8.d.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -955,6 +956,7 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/vm.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/events.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
@@ -1540,8 +1542,8 @@
       ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/child_process.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/net.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1594,9 +1596,9 @@
       ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/http.d.ts": [
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/net.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/url.d.ts",
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/net.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1711,6 +1713,7 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/v8.d.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1719,6 +1722,7 @@
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/vm.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/events.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/node/util.d.ts",
@@ -2081,6 +2085,8 @@
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/command/lib/command.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/command/lib/main.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@oclif/command/lib/index.d.ts",
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/file-walker.ts",
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/remove-from-disk.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/index.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/chai/index.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/events/index.d.ts",
@@ -2146,9 +2152,7 @@
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/mocha/index.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/nock/index.d.ts",
       "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/rimraf/index.d.ts",
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/sinon/ts3.1/index.d.ts",
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/file-walker.ts",
-      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/src/helpers/remove-from-disk.ts"
+      "c:/users/morgan-vostro/desktop/project_cleanup_cli/chararos/node_modules/@types/sinon/ts3.1/index.d.ts"
     ]
   },
   "version": "3.4.5"

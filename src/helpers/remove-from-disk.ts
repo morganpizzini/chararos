@@ -4,6 +4,7 @@
 const rimraf = require('rimraf')
 
 function removeFromDisk(files: string[] | undefined) {
+  // args validation
   if (!files) {
     // tslint:disable-next-line: no-console
     console.log('no file to delete!')

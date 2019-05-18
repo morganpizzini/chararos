@@ -1,7 +1,7 @@
-import { Command, flags } from '@oclif/command';
-import { fileWalker } from './helpers/file-walker';
-import { removeFromDisk } from './helpers/remove-from-disk';
+import {Command, flags} from '@oclif/command'
 
+import {fileWalker} from './helpers/file-walker'
+import {removeFromDisk} from './helpers/remove-from-disk'
 
 class Chararos extends Command {
   static description = 'describe the command here'
@@ -67,27 +67,40 @@ class Chararos extends Command {
     if (flags.folder) {
       folders.push(flags.folder)
     }
+
+    // cleanup directory path
+    const directory = args.directory.endsWith('\\') ? args.directory.substr(0, args.directory.length - 1) : args.directory
+
     // remove files
-    fileWalker(args.directory, folders, (err, data) => {
+    fileWalker({dir: directory, foldersName: folders, log: flags.dryrun}, (err, data) => {
+      // check errors
       if (err) {
         throw err
       }
-      if (flags.dryrun) {
-        this.log('!dry-run! remove')
-        if (data) {
-          if (data.length === 0) {
-            this.log('nothing to remove')
-          }
-          data.forEach(x => this.log(x))
-        } else {
-          this.log('nothing to remove')
-        }
+
+      // check datas
+      if (!data) {
+        this.log('Ops! An error as occured and we cannot process datas')
         return
       }
 
-      this.log('removing..')
-      // remove file from disk
-      removeFromDisk(data)
+      // no data founds
+      if (data.length === 0) {
+        this.log('nothing to remove')
+        return
+      }
+
+      // evaluate dryrun flag
+      if (flags.dryrun) {
+        this.log(
+          '!dry-run! Folders Above are going to be deleted, remove -dryrun for start cleaning up'
+        )
+      } else {
+        this.log('removing..')
+
+        // remove files from disk
+        removeFromDisk(data)
+      }
     })
   }
 }
