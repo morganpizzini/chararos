@@ -1,6 +1,12 @@
 // import fs = require('fs');
 import {readdir, stat} from 'fs'
 
+import {FileWalkerResult} from '../models/file-walker-result'
+
+import {calculateDirSize, formatBytes} from './file-size'
+
+// const getFileSize = require('get-folder-size')
+
 const path = require('path')
 
 /**
@@ -19,7 +25,7 @@ function fileWalker(
     foldersName: string[];
     log?: boolean;
   },
-  done: (err: NodeJS.ErrnoException | null, results?: string[]) => void
+  done: (err: NodeJS.ErrnoException | null, results?: FileWalkerResult[]) => void
 ) {
   // arguments validation
   if (!foldersName) {
@@ -27,7 +33,7 @@ function fileWalker(
     return null
   }
 
-  let results: string[] = []
+  let results: FileWalkerResult[] = []
 
   readdir(dir, (err, list) => {
     if (err) return done(err)
@@ -49,11 +55,17 @@ function fileWalker(
 
           // check for folder path
           if (foldersName.includes(folder)) {
+            const folderSize = calculateDirSize(file)
+
             if (log) {
               // tslint:disable-next-line: no-console
-              console.log(file)
+              console.log(`${file} (${formatBytes(folderSize)})`)
             }
-            results.push(file)
+
+            results.push({
+              folderName: file,
+              folderSize
+            })
 
             // stop recursive due to delete main folder
             if (!--pending) done(null, results)
