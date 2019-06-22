@@ -1,5 +1,7 @@
 import {Command, flags} from '@oclif/command'
+import {sumBy} from 'lodash'
 
+import {formatBytes} from './helpers/file-size'
 import {fileWalker} from './helpers/file-walker'
 import {removeFromDisk} from './helpers/remove-from-disk'
 
@@ -69,7 +71,9 @@ class Chararos extends Command {
     }
 
     // cleanup directory path
-    const directory = args.directory.endsWith('\\') ? args.directory.substr(0, args.directory.length - 1) : args.directory
+    const directory = args.directory.endsWith('\\')
+      ? args.directory.substr(0, args.directory.length - 1)
+      : args.directory
 
     // remove files
     fileWalker({dir: directory, foldersName: folders, log: flags.dryrun}, (err, data) => {
@@ -92,14 +96,17 @@ class Chararos extends Command {
 
       // evaluate dryrun flag
       if (flags.dryrun) {
-        this.log(
-          '!dry-run! Folders Above are going to be deleted, remove -dryrun for start cleaning up'
+        this.warn(
+          `!dry-run! Folders above are going to be deleted (${formatBytes(
+            sumBy(data, x => x.folderSize)
+          )})`
         )
+        this.warn('Remove -dryrun for start cleaning up')
       } else {
         this.log('removing..')
 
         // remove files from disk
-        removeFromDisk(data)
+        removeFromDisk(data.map(x => x.folderName))
       }
     })
   }
