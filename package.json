@@ -17,6 +17,7 @@
     "tslib": "^1.9.3"
   },
   "devDependencies": {
+    "@oclif/dev-cli": "^1.22.0",
     "@oclif/test": "^1.2.4",
     "@oclif/tslint": "^3.1.1",
     "@types/chai": "^4.1.7",
@@ -24,6 +25,7 @@
     "@types/node": "^12.0.2",
     "@types/rimraf": "^2.0.2",
     "chai": "^4.2.0",
+    "globby": "^8.0.2",
     "mocha": "^6.1.4",
     "nyc": "^14.1.1",
     "ts-node": "^8.1.0",
@@ -35,23 +37,33 @@
   },
   "files": [
     "/bin",
-    "/lib"
+    "/lib",
+    "/npm-shrinkwrap.json",
+    "/oclif.manifest.json"
   ],
   "homepage": "https://github.com/morganpizzini/chararos",
   "keywords": [
-    "oclif"
+    "oclif",
+    "chararos",
+    "utility"
   ],
   "license": "MIT",
   "main": "lib/index.js",
   "oclif": {
-    "bin": "chararos"
+    "commands": "./lib/commands",
+    "bin": "chararos",
+    "plugins": [
+      "@oclif/plugin-help"
+    ]
   },
   "repository": "morganpizzini/chararos",
   "scripts": {
     "create:test-ambient": "node helpers/create-test-dir.js",
+    "postpack": "rimraf oclif.manifest.json",
     "posttest": "tslint -p test -t stylish",
-    "prepack": "rimraf lib && tsc -b",
-    "test": "nyc --extension .ts mocha --forbid-only \"test/**/*.test.ts\""
+    "prepack": "rimraf lib && tsc -b && oclif-dev manifest && oclif-dev readme",
+    "test": "nyc --extension .ts mocha --forbid-only \"test/**/*.test.ts\"",
+    "version": "oclif-dev readme && git add README.md"
   },
   "types": "lib/index.d.ts"
 }

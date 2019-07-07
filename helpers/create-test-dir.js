@@ -21,16 +21,23 @@ var bin = '/bin';
 var obj = '/obj';
 var tmpVs = '/.vs';
 var tmpVsCode = '/.vscode';
+var randomFolder = ['/random1', '/random2', '/random3'];
 
 // folders
-fs.mkdirSync(dir + folder1)
-fs.mkdirSync(dir + folder2)
-fs.mkdirSync(dir + folder3)
-fs.mkdirSync(dir + folder4)
+fs.mkdirSync(dir + folder1);
+fs.mkdirSync(dir + folder2);
+fs.mkdirSync(dir + folder3);
+fs.mkdirSync(dir + folder4);
 
 // folder 1
+fs.writeFileSync(dir + folder1 + `/my-${folder1.substr(1, folder1.length)}.txt`, 'ciao oo pp oop');
+fs.writeFileSync(dir + folder1 + `/${folder1.substr(1, folder1.length)}.txt`, 'ciao oo pp oop');
 fs.mkdirSync(dir + folder1 + node);
 fs.writeFileSync(dir + folder1 + node + '/test1.txt', 'ciao oo pp oop');
+fs.writeFile(
+  dir + folder1 + node + `/${folder1.substr(1, folder1.length)}-my.txt`,
+  'ciao oo pp oop',()=>{}
+);
 fs.mkdirSync(dir + folder1 + bin);
 fs.writeFileSync(dir + folder1 + bin + '/test1.txt', 'ciao oooooooo oo oo');
 fs.mkdirSync(dir + folder1 + obj);
@@ -42,6 +49,12 @@ fs.writeFileSync(dir + folder1 + tmpVsCode + '/test1.txt', 'ciao ssssss');
 
 // folder 2
 fs.mkdirSync(dir + folder2 + node);
+fs.writeFileSync(dir + folder2 + `/${folder2.substr(1, folder2.length)}.txt`, 'ciao oo pp oop');
+fs.mkdirSync(dir + folder2 + randomFolder[0]);
+fs.writeFileSync(
+  dir + folder2 + randomFolder[0] + `/${folder2.substr(1, folder2.length)}.txt`,
+  'ciao oo pp oop'
+);
 fs.mkdirSync(dir + folder2 + tmpVsCode);
 
 // folder 3
@@ -54,3 +67,7 @@ fs.mkdirSync(dir + folder3 + tmpVs);
 // folder 4
 fs.mkdirSync(dir + folder4 + tmpVs);
 fs.mkdirSync(dir + folder4 + tmpVsCode);
+
+// custom folders
+fs.mkdirSync(dir + `/my-${folder1.substr(1, folder1.length)}`);
+fs.mkdirSync(dir + `${folder1}-my`);
