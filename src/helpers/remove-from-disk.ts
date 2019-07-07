@@ -3,11 +3,11 @@
 // import * as rimraf from 'rimraf'
 const rimraf = require('rimraf')
 
-function removeFromDisk(files: string[] | undefined) {
+function removeFromDisk(files: string[] | undefined, log: (s: string) => void) {
   // args validation
   if (!files) {
     // tslint:disable-next-line: no-console
-    console.log('no file to delete!')
+    log('no file to delete!')
     return
   }
 
@@ -15,7 +15,7 @@ function removeFromDisk(files: string[] | undefined) {
   files.forEach(element => {
     rimraf(element, () => {
       // tslint:disable-next-line: no-console
-      console.log('removed: ', element)
+      log('removed: ' + element)
     })
   })
 }
