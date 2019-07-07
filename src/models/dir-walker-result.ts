@@ -1,4 +1,4 @@
-export interface FileWalkerResult {
+export interface DirWalkerResult {
   folderName: string
   folderSize: number
 }

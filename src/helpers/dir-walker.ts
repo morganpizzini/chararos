@@ -1,7 +1,7 @@
 // import fs = require('fs');
 import {readdir, stat} from 'fs'
 
-import {FileWalkerResult} from '../models/file-walker-result'
+import {DirWalkerResult} from '../models/dir-walker-result'
 
 import {calculateDirSize, formatBytes} from './file-size'
 
@@ -15,25 +15,28 @@ const path = require('path')
  * @param foldersName folders name
  * @param done callback
  */
-function fileWalker(
+function dirWalker(
   {
     dir,
     foldersName,
     log
   }: {
+    // directory to look in
     dir: string;
+    // folder name to look for
     foldersName: string[];
-    log?: boolean;
+    // logger function
+    log(s: string): void;
   },
-  done: (err: NodeJS.ErrnoException | null, results?: FileWalkerResult[]) => void
+  done: (err: NodeJS.ErrnoException | null, results?: DirWalkerResult[]) => void
 ) {
   // arguments validation
   if (!foldersName) {
-    console.log('no target folders provided')
+    log('no target folders provided')
     return null
   }
 
-  let results: FileWalkerResult[] = []
+  let results: DirWalkerResult[] = []
 
   readdir(dir, (err, list) => {
     if (err) return done(err)
@@ -48,6 +51,13 @@ function fileWalker(
       file = path.resolve(dir, file)
 
       stat(file, (err, stat) => {
+        if (err) {
+          log('error occured' + JSON.stringify(err))
+          // call callback if no items left to parse
+          if (!--pending) done(null, results)
+          return
+        }
+
         // If directory, execute a recursive call
         if (stat && stat.isDirectory()) {
           // Add directory to array [comment if you need to remove the directories from the array]
@@ -57,10 +67,7 @@ function fileWalker(
           if (foldersName.includes(folder)) {
             const folderSize = calculateDirSize(file)
 
-            if (log) {
-              // tslint:disable-next-line: no-console
-              console.log(`${file} (${formatBytes(folderSize)})`)
-            }
+            log(`${file} (${formatBytes(folderSize)})`)
 
             results.push({
               folderName: file,
@@ -79,7 +86,7 @@ function fileWalker(
           }
 
           // recursive
-          fileWalker({dir: file, foldersName, log}, (err, res) => {
+          dirWalker({dir: file, foldersName, log}, (err, res) => {
             if (res) {
               results = results.concat(res)
             }
@@ -95,5 +102,4 @@ function fileWalker(
   })
 }
 
-// module.exports.fileWalker = fileWalker;
-export {fileWalker}
+export {dirWalker}
