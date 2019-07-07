@@ -205,17 +205,97 @@
         "version": "778d7164f3612aad776e12987f46889f3fe3541e5d9aed5f673daed728b643d5",
         "signature": "778d7164f3612aad776e12987f46889f3fe3541e5d9aed5f673daed728b643d5"
       },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-walker.ts": {
-        "version": "56fd6f54374b93a19c9d5ff781ee16be49ed8030ae9ef77a78916c918ec26d1c",
-        "signature": "9a8df041663705833906852fcdce9de045211f1d27c7acbb0b305f7a0521c6bd"
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/index.ts": {
+        "version": "bed38581393e574bf4196a03c58f3d8a561eddfb715d9843512a34c02276ddd2",
+        "signature": "e5b102095ea92ddecdf8e9a7c589c856b5d449ff0b9232ec8b4020e43fc984f6"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts": {
+        "version": "1ab36cdbb5af99fc06711bbd51d7bf09d5fedaba0223f15f45708d9882ffb853",
+        "signature": "1ab36cdbb5af99fc06711bbd51d7bf09d5fedaba0223f15f45708d9882ffb853"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts": {
+        "version": "b6d3763d7f9ce84118df4340505c24384267ccb48fa8772852260cb5ed4617c2",
+        "signature": "b6d3763d7f9ce84118df4340505c24384267ccb48fa8772852260cb5ed4617c2"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts": {
+        "version": "dfe341e9b1fbba9efd858aec6b2bce3ba27f1d572caf6a041b44eab94c88c864",
+        "signature": "dfe341e9b1fbba9efd858aec6b2bce3ba27f1d572caf6a041b44eab94c88c864"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts": {
+        "version": "187119ff4f9553676a884e296089e131e8cc01691c546273b1d0089c3533ce42",
+        "signature": "187119ff4f9553676a884e296089e131e8cc01691c546273b1d0089c3533ce42"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts": {
+        "version": "45bf6da7cede8211b7d0579deabfa227490dfe8b932a56a962599efc48356e68",
+        "signature": "45bf6da7cede8211b7d0579deabfa227490dfe8b932a56a962599efc48356e68"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts": {
+        "version": "c2d47e5668f89ed8768d306919c42bb88d50d4029d68f58343141360895cfcc0",
+        "signature": "c2d47e5668f89ed8768d306919c42bb88d50d4029d68f58343141360895cfcc0"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts": {
+        "version": "65648639567d214f62c1b21d200c852807e68bdb08311f95ab6f526ef5b98995",
+        "signature": "65648639567d214f62c1b21d200c852807e68bdb08311f95ab6f526ef5b98995"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts": {
+        "version": "00baffbe8a2f2e4875367479489b5d43b5fc1429ecb4a4cc98cfc3009095f52a",
+        "signature": "00baffbe8a2f2e4875367479489b5d43b5fc1429ecb4a4cc98cfc3009095f52a"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts": {
+        "version": "d04c462c622fc52b3b75c8b7eeb9e6ec2123414893a1cf3668c592e22f185ed2",
+        "signature": "d04c462c622fc52b3b75c8b7eeb9e6ec2123414893a1cf3668c592e22f185ed2"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts": {
+        "version": "3c92b6dfd43cc1c2485d9eba5ff0b74a19bb8725b692773ef1d66dac48cda4bd",
+        "signature": "3c92b6dfd43cc1c2485d9eba5ff0b74a19bb8725b692773ef1d66dac48cda4bd"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts": {
+        "version": "e34f3f6159b1e23de9bb5521382795aaa5aaed6f53b4702e70a2ec45bc76ddb5",
+        "signature": "e34f3f6159b1e23de9bb5521382795aaa5aaed6f53b4702e70a2ec45bc76ddb5"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts": {
+        "version": "c84107ce3522799b7a821463b1743ef230669093b2746afd1e817fcbb5885e67",
+        "signature": "c84107ce3522799b7a821463b1743ef230669093b2746afd1e817fcbb5885e67"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts": {
+        "version": "bbf144d4354e2aaa6439f32761f3ee798cc68d1600adab6e2a596f25269f106d",
+        "signature": "bbf144d4354e2aaa6439f32761f3ee798cc68d1600adab6e2a596f25269f106d"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-size.ts": {
+        "version": "971c583793003886ce3a3615d1f2f7de9836cf2029113f9779804401ee364189",
+        "signature": "25c5cde2bacfabe6cffb116ca8a0d7203487df96a13321fd08f22f07e2799e91"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/models/dir-walker-result.ts": {
+        "version": "f4752c823786885a0253973767a5ea3a1355eb461adda1f16870cd6c94efad4d",
+        "signature": "e1ac22a64b78988bf200bac1ba1f6dff5320d219e427f1b4621297ff27d24adf"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/dir-walker.ts": {
+        "version": "a33038a8f11a6b640b318709d2d0aba560ae508a0b921c4086da898a85d479c3",
+        "signature": "2db29cf59153253fde016020118e804b6f4968355d1d139af95fe33c363b0cbd"
       },
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/remove-from-disk.ts": {
-        "version": "f35c8e25555e760b64b5261dd51c770ab58d7f4518059931316de776a298a856",
-        "signature": "b05780875d18ebf5166bfeb651a04cb988b035a00a4ed81218ee5323b7ccffb2"
+        "version": "6b8d4d838bc43487cc48c8f5e7a581cb99ea0a1a46ccfcce27c521faf046788e",
+        "signature": "f938c5f42ab5e363a5c110e83e25bc962f63a84145e5175852e3e084cbc42d84"
       },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/index.ts": {
-        "version": "7528edc7afed4eaeaa4ceae0d8a406bb05f305f1b7d2e93f0cf93fac000fe885",
-        "signature": "a2713dd52e7e48f0be4826cc25b2e86a26662752c111f17671bde0c76e79ed59"
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/commands/clean.ts": {
+        "version": "3395b8a1736bb3c0dda55a58c6f9f63c3cffc4d9eb9384bdc7c0e0d2c92e3748",
+        "signature": "b66c2968f364c6d111d2712d9f2febefce74734b5f865aedc23a4254b31cf0b5"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/models/file-scraper-result.ts": {
+        "version": "35165089da52f2496901a95c36c9a3824afa3de7b4935efbc8d04af93b120cef",
+        "signature": "e26417b20c81c921f34aa11649f1c4080c1b2f5d2e7a1e9a4fc1d5b30f4cf0c3"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-scraper.ts": {
+        "version": "657be8e21a57a88f12b3cf50f216f33d6182432574b80f58a173339de0c62dad",
+        "signature": "40dcf95c0ef70bcd2beedffef311870fec36e75ebaa5707e5b849c3225bf0fce"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/rename-path.ts": {
+        "version": "14b42b33d5c707f110ab21882b4ac669c458fccf57fd07bf8be4f0bccc0f2015",
+        "signature": "d54e313f1e655ba6bbabf39900520ef974f391e6bd4423054b74f2dcce0d267e"
+      },
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/commands/rename.ts": {
+        "version": "11c95dbd304a78abde6970b2f09c9308c9f6ba465c6596a3ebc8f8ddcb68db14",
+        "signature": "47795b3e6ef62ae10bd413d17217edaa96901fafb941a79134f77b8b58159340"
       },
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/chai/index.d.ts": {
         "version": "c465afa89ac28f74167a2ee7c3c6eb8dd1245c2b3bdaa4704d58d35b932de4b7",
@@ -408,58 +488,6 @@
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/glob/index.d.ts": {
         "version": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee",
         "signature": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts": {
-        "version": "1ab36cdbb5af99fc06711bbd51d7bf09d5fedaba0223f15f45708d9882ffb853",
-        "signature": "1ab36cdbb5af99fc06711bbd51d7bf09d5fedaba0223f15f45708d9882ffb853"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts": {
-        "version": "b6d3763d7f9ce84118df4340505c24384267ccb48fa8772852260cb5ed4617c2",
-        "signature": "b6d3763d7f9ce84118df4340505c24384267ccb48fa8772852260cb5ed4617c2"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts": {
-        "version": "dfe341e9b1fbba9efd858aec6b2bce3ba27f1d572caf6a041b44eab94c88c864",
-        "signature": "dfe341e9b1fbba9efd858aec6b2bce3ba27f1d572caf6a041b44eab94c88c864"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts": {
-        "version": "187119ff4f9553676a884e296089e131e8cc01691c546273b1d0089c3533ce42",
-        "signature": "187119ff4f9553676a884e296089e131e8cc01691c546273b1d0089c3533ce42"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts": {
-        "version": "45bf6da7cede8211b7d0579deabfa227490dfe8b932a56a962599efc48356e68",
-        "signature": "45bf6da7cede8211b7d0579deabfa227490dfe8b932a56a962599efc48356e68"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts": {
-        "version": "c2d47e5668f89ed8768d306919c42bb88d50d4029d68f58343141360895cfcc0",
-        "signature": "c2d47e5668f89ed8768d306919c42bb88d50d4029d68f58343141360895cfcc0"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts": {
-        "version": "65648639567d214f62c1b21d200c852807e68bdb08311f95ab6f526ef5b98995",
-        "signature": "65648639567d214f62c1b21d200c852807e68bdb08311f95ab6f526ef5b98995"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts": {
-        "version": "00baffbe8a2f2e4875367479489b5d43b5fc1429ecb4a4cc98cfc3009095f52a",
-        "signature": "00baffbe8a2f2e4875367479489b5d43b5fc1429ecb4a4cc98cfc3009095f52a"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts": {
-        "version": "d04c462c622fc52b3b75c8b7eeb9e6ec2123414893a1cf3668c592e22f185ed2",
-        "signature": "d04c462c622fc52b3b75c8b7eeb9e6ec2123414893a1cf3668c592e22f185ed2"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts": {
-        "version": "3c92b6dfd43cc1c2485d9eba5ff0b74a19bb8725b692773ef1d66dac48cda4bd",
-        "signature": "3c92b6dfd43cc1c2485d9eba5ff0b74a19bb8725b692773ef1d66dac48cda4bd"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts": {
-        "version": "e34f3f6159b1e23de9bb5521382795aaa5aaed6f53b4702e70a2ec45bc76ddb5",
-        "signature": "e34f3f6159b1e23de9bb5521382795aaa5aaed6f53b4702e70a2ec45bc76ddb5"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts": {
-        "version": "c84107ce3522799b7a821463b1743ef230669093b2746afd1e817fcbb5885e67",
-        "signature": "c84107ce3522799b7a821463b1743ef230669093b2746afd1e817fcbb5885e67"
-      },
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts": {
-        "version": "bbf144d4354e2aaa6439f32761f3ee798cc68d1600adab6e2a596f25269f106d",
-        "signature": "bbf144d4354e2aaa6439f32761f3ee798cc68d1600adab6e2a596f25269f106d"
       },
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/mocha/index.d.ts": {
         "version": "0d2394ead194f57249ac193360c6529ff4b4ec675e3499651eed6baf20867102",
@@ -734,8 +762,233 @@
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-walker.ts": [
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/index.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-size.ts": [
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/fs.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/models/dir-walker-result.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/dir-walker.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/fs.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/models/dir-walker-result.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-size.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -743,10 +996,34 @@
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/index.ts": [
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/commands/clean.ts": [
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-walker.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-size.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/dir-walker.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/remove-from-disk.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/models/file-scraper-result.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-scraper.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/fs.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/models/file-scraper-result.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/rename-path.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/fs.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/commands/rename.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-scraper.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/rename-path.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1032,214 +1309,6 @@
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/minimatch/index.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1400,6 +1469,31 @@
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/alphabet.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/alphabet.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/metadata.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/parse.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/args.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/metadata.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/help.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/index.d.ts": [
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/args.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
@@ -1408,40 +1502,44 @@
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/command.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/flags.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/command.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/flags.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/main.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/index.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/main.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/flags.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/command.d.ts": [
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/index.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/hooks.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/pjson.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/manifest.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/command.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/topic.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/plugin.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/command.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/manifest.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/pjson.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/topic.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/config.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/command.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/hooks.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/pjson.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/plugin.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/topic.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1456,63 +1554,241 @@
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/hooks.d.ts": [
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/flags.d.ts": [
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/config.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/command.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/hooks.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/pjson.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/plugin.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/topic.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/plugin.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/command.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/manifest.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/pjson.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/topic.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/manifest.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/command.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/parse.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/args.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/metadata.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/alphabet.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/alphabet.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/help.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/index.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/metadata.d.ts": [
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/command.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/flags.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/pjson.d.ts": [
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/main.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/config/lib/topic.d.ts": [
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/command.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/flags.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/main.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/index.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1529,6 +1805,207 @@
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/assert.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/async_hooks.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/buffer.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/child_process.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/cluster.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/child_process.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/console.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/constants.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/crypto.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/dgram.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/dns.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/dns.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/domain.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/fs.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/url.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/http.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/url.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/http2.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/fs.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/tls.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/url.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/http.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/https.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/tls.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/http.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/url.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/inspector.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/module.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/dns.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/os.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/path.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/perf_hooks.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/async_hooks.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/process.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/punycode.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/querystring.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/readline.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/repl.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/readline.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/vm.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/string_decoder.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/timers.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/tls.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/crypto.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/dns.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/trace_events.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/tty.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/url.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/querystring.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/v8.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/vm.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/vm.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/zlib.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1575,16 +2052,32 @@
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/zlib.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/globals.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/index.d.ts": [
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/base.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/globals.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/rimraf/index.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/glob/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/fs.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/minimatch/index.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/glob/index.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/minimatch/index.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/mocha/index.d.ts": [
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1596,441 +2089,30 @@
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/glob/index.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/minimatch/index.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/rimraf/index.d.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/glob/index.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/fs.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/index.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/async_hooks.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/perf_hooks.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/async_hooks.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/buffer.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/child_process.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/cluster.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/child_process.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/console.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/constants.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/crypto.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/tls.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/crypto.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/dns.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/https.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/tls.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/http.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/url.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/http2.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/fs.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/tls.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/url.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/http.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/dgram.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/dns.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/dns.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/dns.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/tty.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/http.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/url.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/net.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/domain.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/worker_threads.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/vm.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/zlib.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/v8.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/readline.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/repl.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/readline.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/vm.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/fs.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/stream.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/url.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/inspector.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/events.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/module.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/os.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/path.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/process.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/punycode.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/querystring.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/url.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/querystring.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/string_decoder.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/timers.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/trace_events.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts": [
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/sinon/ts3.1/index.d.ts": [
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
         "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/mocha/index.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/commands/clean.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/dir-walker.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/models/dir-walker-result.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-scraper.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/models/file-scraper-result.ts"
       ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/minimatch/index.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/globals.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/globals.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts"
-      ],
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/vm.d.ts": [
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/util.d.ts",
-        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/util.d.ts"
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/commands/rename.ts": [
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -2085,9 +2167,19 @@
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/command.d.ts",
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/main.d.ts",
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@oclif/command/lib/index.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-walker.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/remove-from-disk.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/index.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/chai/index.d.ts",
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/events/index.d.ts",
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/globals.d.ts",
@@ -2136,23 +2228,20 @@
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/node/ts3.2/index.d.ts",
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/minimatch/index.d.ts",
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/glob/index.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/lodash/ts3.1/index.d.ts",
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/mocha/index.d.ts",
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/nock/index.d.ts",
       "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/rimraf/index.d.ts",
-      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/sinon/ts3.1/index.d.ts"
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/node_modules/@types/sinon/ts3.1/index.d.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/index.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-size.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/models/dir-walker-result.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/dir-walker.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/remove-from-disk.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/commands/clean.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/models/file-scraper-result.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/file-scraper.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/helpers/rename-path.ts",
+      "c:/users/morgan-vostro/documents/visual studio 2017/github/chararos/src/commands/rename.ts"
     ]
   },
   "version": "3.4.5"

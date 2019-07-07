@@ -1,7 +1,7 @@
-import {Command, flags} from '@oclif/command'
+import { Command, flags } from '@oclif/command';
+import { fileScraper } from '../helpers/file-scraper';
+import { renamePath } from '../helpers/rename-path';
 
-import {fileScraper} from '../helpers/file-scraper'
-import {renamePath} from '../helpers/rename-path'
 
 export default class Rename extends Command {
   static description = 'rename folders name'
@@ -9,6 +9,8 @@ export default class Rename extends Command {
   static examples = [
     `$ chararos rename '%YOUR-PATH%' "x" "y"
 rename folders from 'x' to 'y'
+use * as catch-all char, at start or end, for replace suffix and prefix
+$ chararos rename '%YOUR-PATH%' "x*" "y"
 `
   ]
 
@@ -71,7 +73,7 @@ rename folders from 'x' to 'y'
     const matchAllChar = '*'
 
     // cleanup directory path
-    let directory = args.directory;
+    let directory = args.directory
     if (directory === '.' || directory.startsWith('.')) {
       directory = directory.replace('.', process.cwd())
     }
