@@ -54,48 +54,8 @@ USAGE
 ...
 ```
 <!-- usagestop -->
-# Generic commands
+# Commands
 
-## Options
-| Command | Description | Sample | Default
-|---|---|--|--|
-| `-h` / `--help` | Get help | `chararos -h` |
-| `--version` | Get CLI version | `chararos -v/version` |
-
-## Clean Command
-
-### Clean Arguments
-
-- **DIRECTORY**  set target directory. \[REQUIRED\]
-
-Sample command `chararos clean 'C:\Users\<usr_name>\Desktop\Projects'` or `chararos clean .`
-
-### Clean Options
-
-| Command | Description | Sample | Default
-|---|---|--|--|
-| `-h` / `--help` | Get help | `chararos clean -h` |
-| `--version` | Get CLI version | `chararos clean --version` |
-| `-d` / `--dryrun` | Dry run process for getting forecast about folders to be removed | `chararos clean <dir> -d` | false |
-| `-n` / `--node` | Setup for remove `node_modules` | `chararos clean <dir> -n` | false |
-| `-v` / `--vs` | Setup for remove `bin` and `obj` | `chararos clean <dir> -v` | false |
-| `-f` / `--folder` | Looking for a specific folder to remove | `chararos clean <dir> -f=<folder>` |  |
-
-# Arguments 'rename'
-
-- **DIRECTORY** set target directory. \[REQUIRED\]
-- **FROMNAME** set name to replace. \[REQUIRED\]
-- **TONAME** set new name. \[REQUIRED\]
-
-Sample command `chararos rename 'C:\Users\<usr_name>\Desktop\Projects' 'x' 'y'` or `chararos rename .  'x' 'y'`
-
-# Options
-| Command | Description | Sample | Default
-|---|---|--|--|
-| `-h` / `--help` | Get help | `chararos rename -h` |
-| `-v` / `--version` | Get CLI version | `chararos rename --v` |
-| `-d` / `--dryrun` | Dry run process for getting forecast about folders to be removed | `chararos rename <dir> -d` | false |
-| `-s` / `--strict` | Looking for strict match | `chararos rename <dir> <from> <to> -s` | false |
 <!-- commands -->
 * [`chararos clean DIRECTORY`](#chararos-clean-directory)
 * [`chararos help [COMMAND]`](#chararos-help-command)
