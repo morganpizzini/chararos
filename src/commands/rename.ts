@@ -106,7 +106,9 @@ $ chararos rename '%YOUR-PATH%' "x*" "y"
         searchTerm = new RegExp(`${fromName}`)
       }
     }
-    // remove files
+
+    this.log('processing...')
+    // rename files
     fileScraper(
       {dir: directory, searchTerm, log: flags.dryrun ? this.log : _ => {}},
       (err: any, data: any) => {

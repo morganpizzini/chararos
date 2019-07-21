@@ -86,6 +86,7 @@ removing visual studio files
       directory = args.directory.substr(0, args.directory.length - 1)
     }
 
+    this.log('processing...')
     // remove files
     dirWalker({dir: directory, foldersName: folders, log: flags.dryrun ? this.log : _ => {}}, (err: any, data: any) => {
       // check errors
